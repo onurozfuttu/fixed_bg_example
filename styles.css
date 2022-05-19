@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.word{
+    text-indent: 1px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: red;
+}
+
+.first{
+    background: url("/images/building.jpeg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    background-position: center;
+    margin: 0;
+}
+
+.second {
+    background: url("/images/girl.webp");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
